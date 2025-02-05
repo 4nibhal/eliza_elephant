@@ -1,5 +1,13 @@
 # README Elephant
 
+## Config .env
+
+```bash
+cp .env.elephant .env
+```
+
+Config for your use case
+
 ## Install
 
 ```bash
@@ -27,6 +35,8 @@ pnpm start:client
 
 Open the client and test
 
+
+NOT FOR PRODUCTION !!!!
 
 
 ## Contribute
