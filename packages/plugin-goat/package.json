@@ -22,8 +22,10 @@
 		"@elizaos/core": "workspace:*",
 		"@goat-sdk/adapter-vercel-ai": "0.2.0",
 		"@goat-sdk/core": "0.4.6",
+		"@goat-sdk/plugin-0x": "^0.1.4",
 		"@goat-sdk/plugin-erc20": "0.2.2",
 		"@goat-sdk/plugin-kim": "0.1.2",
+		"@goat-sdk/plugin-uniswap": "^0.2.10",
 		"@goat-sdk/wallet-evm": "0.2.0",
 		"@goat-sdk/wallet-viem": "0.2.0",
 		"tsup": "8.3.5"
